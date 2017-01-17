@@ -6,4 +6,8 @@ Once you have NodeJS, you can install Q with the following command.
 
 `npm install q`
 
+then, to run the code, enter the command:
+
+`node shopify.js`
+
 
